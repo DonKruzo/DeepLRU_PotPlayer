@@ -1,4 +1,4 @@
-# DeepLRU_PotPlayer
+# DeepL_PotPlayer
 Онлайн переводчик субтитров для PotPlayer с использованием DeepL
 Инструкция по установке:
 Файлы скинуть по пути C:\Program Files\PotPlayer\Extension\Subtitle\Translate
