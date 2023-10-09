@@ -1,2 +1,5 @@
 # DeepLRU_PotPlayer
-Онлайн переводчик субтитров на русский для PotPlayer с использованием DeepL
+Онлайн переводчик субтитров для PotPlayer с использованием DeepL
+Инструкция по установке:
+Файлы скинуть по пути C:\Program Files\PotPlayer\Extension\Subtitle\Translate
+В настройках онлайн перевода субтитров выбрать DeepL Translate, нажать "Аккаунт" и ввести свой API key
